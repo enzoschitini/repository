@@ -45,6 +45,14 @@ def prograss_bar(tempo):
    for i in tqdm(range(tempo)):
     time.sleep(1)
 
+def attaccare(lista1:list, lista2:list, totale_di_elemnti:int) -> list:
+   nuova_lista = []
+   for x in range(totale_di_elemnti):
+      line = lista1[x] + ';' + lista2[x]
+      nuova_lista.append(line)
+   return nuova_lista
+
+
 ############################## CLASSES ################################
 
 
