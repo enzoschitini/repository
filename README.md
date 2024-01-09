@@ -1,7 +1,7 @@
 # Data Science Repository
 Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
 
-<img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Group.png" alt="capa">
+<img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Library.png" alt="capa">
 
 ---
 
