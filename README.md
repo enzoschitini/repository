@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Repository
 Aqui você verá todos os meus projetos de Data Science divididos em grupos com as habilidades necessárias para obter os melhores Insights.
 
 <img src="https://raw.githubusercontent.com/enzoschitini/Adige/main/image/Group.png" alt="capa">
@@ -32,60 +32,6 @@ Aqui você verá todos os meus projetos de Data Science divididos em grupos com 
 
 > ### Análise avançada
 > O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-> ### Tratamento e limpeza de dados 
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-> ### Projeto EBAC
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-### 2° - Algoritmos, modelos e métricas 
-###  
-
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-### 3° - Desenvolvimento avançado de gráficos 
-###  
-
-> ### Criando gráficos
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-> ### Tratando e melhorando gráficos
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-> ### Gráficos 3D
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-### 4° - Storytelling com dados 
-###  
-
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio)
-##
-
-### 5° - Minha trajetória 
-###  
-
-> ### Trevi - climate change
-> O programa Trevi foi projetado para coletar e analisar uma vasta quantidade de dados sobre temperaturas do solo, mais de 230 mil linhas de dados. Com estes dados, que abrangem um período de 250 anos. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/05%20Minha%20trajet%C3%B3ria/Climate%20Change)
-
-> ### FIFA National teams
-> Este projeto irá explorar o desempenho das seleções nacionais de futebol de 1993 a 2022, oferecendo uma visão detalhada e envolvente das suas façanhas em campo. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/05%20Minha%20trajet%C3%B3ria/Spogliatoi)
-
-> ### Global peace index 2023
-> Este algoritmo tenta entender o compor tamento dos países nos últimos anos em relação ao índice de paz mundial. Os dados vão de 2008 a 2023, ao todo: 16 anos de análise. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/05%20Minha%20trajet%C3%B3ria/Brescia)
-
-> ### Imola kepler data
-> Esse é um algoritmo que revela dados incríveis sobre exoplanetas e a temperatura das estrelas. O telescópio é dedicado à busca de exoplanetas em sistemas estelares além do nosso. [Ver](https://github.com/enzoschitini/Data-Science-Portfolio/tree/main/05%20Minha%20trajet%C3%B3ria/Imola)
-
 ##
 
 <p align="center">
